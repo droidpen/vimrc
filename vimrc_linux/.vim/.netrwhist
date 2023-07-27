@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/pendroid/android'
+let g:netrw_dirhist_2='/home/pendroid/sw/linux/linux-6.0.7'
+let g:netrw_dirhist_1='/home/pendroid/sw/namespace_practise'
+let g:netrw_dirhist_0='/home/pendroid/sw/linux/linux-6.0.7'
+let g:netrw_dirhist_9='/home/pendroid/sw'
+let g:netrw_dirhist_8='/usr/lib/modules/5.19.0-38-generic'
+let g:netrw_dirhist_7='/home/pendroid/tools/Purevpn/New+OVPN+Files/TCP'
+let g:netrw_dirhist_6='/home/pendroid/android/build'
+let g:netrw_dirhist_5='/home/pendroid/android/build/make'
+let g:netrw_dirhist_4='/home/pendroid/sw'
