@@ -1,7 +1,7 @@
 set nocompatible
 filetype on
 
-let $VIMRUNTIME = "/usr/share/vim/vim82"
+"let $VIMRUNTIME = "/usr/share/vim/vim82"
 "let $TOOLS = $VIMRUNTIME . "\\tools"   " Add a whitespace for the sake of PATH concatenation. Must use escape char for special chars like slash etc
 let $TOOLS = "/usr/bin"   " Add a whitespace for the sake of PATH concatenation. Must use escape char for special chars like slash etc
 let $PATH = $PATH . ";" . $TOOLS
@@ -14,7 +14,7 @@ let $PETER = Tlist_Ctags_Cmd
 "source $VIMRUNTIME/mswin.vim
 behave mswin
 
-"set nu
+set nu
 set tags=./tags,./../tags,./../*/tags,./../../tags,./cscope.out
 "set tags=.\tags,.\..\tags,.\..\*\tags,.\..\..\tags,.\cscope.out
 :colorscheme desert
