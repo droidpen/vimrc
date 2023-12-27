@@ -3,4 +3,4 @@ Some tools are added for making life easier in coding.
 
 For Linux (Ubunutu)
 Copy .vimrc to ~/
-Copy .vim/doc/* and .vim/plugin/* to /usr/share/vim/vim82/doc/* and /usr/share/vim/vim82/taglist/* respectively
+Copy .vim/doc/* and .vim/plugin/* to /usr/share/vim/vim82/doc/* and /usr/share/vim/vim82/plugin/* respectively
